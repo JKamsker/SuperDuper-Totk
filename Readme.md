@@ -27,6 +27,13 @@ To install the SuperDuper-Totk plugin, follow these steps:
    joycontrol-pluginloader -r auto SuperDuper-Totk/MineruItems.py
    ```
 
+# How to use:
+
+Make sure:
+1. you are on the items tab in the game.
+2. you have the item you want to duplicate selected in your inventory
+3. are not in the menu (press B to exit the menu)
+4. you are sitting on Mineru's mech
 
 
 Congratulations! You have now successfully installed and started the SuperDuper-Totk plugin.
