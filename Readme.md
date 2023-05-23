@@ -2,6 +2,10 @@
 
 Welcome to the SuperDuper-Totk repository! This repository contains a plugin called MineruItems.py that enhances the functionality of the JoyControl project.
 
+
+https://github.com/JKamsker/SuperDuper-Totk/assets/11245306/e0fe4832-1e7e-4ad3-9103-ceb5ad2dbdff
+
+
 ## Prerequisites
 
 Before using this plugin, make sure you have the following installed:
