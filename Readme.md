@@ -46,3 +46,7 @@ If you would like to contribute to this project, please feel free to submit pull
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the `LICENSE` file for more information.
+
+# Authors
+[JKamsker](https://github.com/JKamsker)
+[ChatGPT](https://chat.openai.com/)
