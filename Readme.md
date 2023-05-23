@@ -8,7 +8,10 @@ Before using this plugin, make sure you have the following installed:
 
 1. **JoyControl**: The original JoyControl project is outdated and no longer works with the Switch. Instead, use the updated version available at [https://github.com/Poohl/joycontrol](https://github.com/Poohl/joycontrol). Please follow the installation instructions provided there.
 
-2. **PluginLoader**: You also need to install the PluginLoader. Instructions for installing the PluginLoader can be found in the JoyControl repository mentioned above.
+2. **PluginLoader**: You also need to install the PluginLoader. You can find the PluginLoader at [https://github.com/Almtr/joycontrol-pluginloader](https://github.com/Almtr/joycontrol-pluginloader). Please follow the installation instructions provided there.
+
+3. Make sure both repositories are installed using pip3, as it's statet in the installation instructions of the PluginLoader.
+
 
 ## Installation
 
@@ -24,6 +27,8 @@ To install the SuperDuper-Totk plugin, follow these steps:
    joycontrol-pluginloader -r auto SuperDuper-Totk/MineruItems.py
    ```
 
+
+
 Congratulations! You have now successfully installed and started the SuperDuper-Totk plugin.
 
 ## Contributing
@@ -33,7 +38,3 @@ If you would like to contribute to this project, please feel free to submit pull
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the `LICENSE` file for more information.
-
-## Contact
-
-If you have any questions or need further assistance, please don't hesitate to contact the project maintainer at [email@example.com](mailto:email@example.com).
