@@ -36,7 +36,7 @@ To install the SuperDuper-Totk plugin, follow these steps:
 Make sure:
 1. you are on the items tab in the game.
 2. you have the item you want to duplicate selected in your inventory
-3. (More than 5 items of that kind would probaply help (idk havent tested it with less) )
+3. (More than 5 items of that kind would probably help (idk havent tested it with less) )
 4. are not in the menu (press B to exit the menu)
 5. you are sitting on Mineru's mech
 

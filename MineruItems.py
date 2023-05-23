@@ -5,10 +5,6 @@ from JoycontrolPlugin import JoycontrolPlugin
 
 logger = logging.getLogger(__name__)
 
-# ./bdaddr -i hci0 94:58:CB:AF:53:48
-# hciconfig hci0 reset
-# systemctl restart bluetooth.service
-
 # plugins/zelda-totk/AutoDupeMineru.py
 # Required to be in menu and select the item to be duplicated
 # Duplication keys: 
@@ -20,15 +16,11 @@ logger = logging.getLogger(__name__)
 class AutoDupeMineru(JoycontrolPlugin):
     async def run(self):
         logger.info('Auto Dupe Mineru Plugin')
-        # while True:
-        #     line = input("press key to be relayed...")
-        #     await self.button_push(line)
 
-        
         # Press the A button when the controller is ready for input.
         logger.info('Pairing completed.')
         for i in range(3):
-            logger.info('Press a for the {} time (of 5)'.format(i+1))
+            logger.info('Press a for the {} time (of 3)'.format(i+1))
             await self.wait(0.5)
             await self.button_push('a')
             await self.wait(0.5)
