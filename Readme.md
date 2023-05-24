@@ -9,6 +9,7 @@ https://github.com/JKamsker/SuperDuper-Totk/assets/11245306/e0fe4832-1e7e-4ad3-9
 
 
 ## Prerequisites
+I have only tested it on a Raspberry Pi 4+ but an ordinary linux machine with bluetooth should do it aswell™
 
 Before using this plugin, make sure you have the following installed:
 
