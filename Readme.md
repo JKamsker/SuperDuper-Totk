@@ -5,7 +5,10 @@ This is a plugin for joycontrol, which emulates button presses to execute the "F
 But instead of Flying, you sit on Mineru's mech.
 
 
-https://github.com/JKamsker/SuperDuper-Totk/assets/11245306/e0fe4832-1e7e-4ad3-9103-ceb5ad2dbdff
+
+
+https://github.com/JKamsker/SuperDuper-Totk/assets/11245306/5db3498c-3362-4a1e-8c37-621688bb6815
+
 
 
 ## Prerequisites
