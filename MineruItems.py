@@ -1,3 +1,5 @@
+# to run: joycontrol-pluginloader -r auto SuperDuper-Totk/MineruItems.py
+
 import logging
 import asyncio
 
@@ -5,15 +7,7 @@ from JoycontrolPlugin import JoycontrolPlugin
 
 logger = logging.getLogger(__name__)
 
-# plugins/zelda-totk/AutoDupeMineru.py
-# Required to be in menu and select the item to be duplicated
-# Duplication keys: 
-#   Enable add to hand: X down X up
-#   Add to hand (Repeat 5 times): A down A up
-#   Sort and exit simultaneously: Y down B down - wait 0.1s - Y up B up
-#   Open menu: press + button
-
-class AutoDupeMineru(JoycontrolPlugin):
+class MineruItems(JoycontrolPlugin):
     async def run(self):
         logger.info('Auto Dupe Mineru Plugin')
 
