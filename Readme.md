@@ -1,6 +1,8 @@
-# README - SuperDuper-Totk
+# README - SuperDuper - Tears of the Kingdom (Totk)
 
-Welcome to the SuperDuper-Totk repository! This repository contains a plugin called MineruItems.py that enhances the functionality of the JoyControl project.
+## About
+This is a plugin for joycontrol, which emulates button presses to execute the "Flying State + Y + B" glitch. 
+But instead of Flying, you sit on Mineru's mech.
 
 
 https://github.com/JKamsker/SuperDuper-Totk/assets/11245306/e0fe4832-1e7e-4ad3-9103-ceb5ad2dbdff
